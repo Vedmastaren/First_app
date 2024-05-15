@@ -17,8 +17,7 @@ app.py
 5. Skapa en html fil
 Skapa en mapp med namn templates
 Skapa en fil i mappen 
-index.html.
-python app.py
+index.html
 
 6. Skapa en lokal databas och logga in med dina uppgifter (använde postgres)
 notes.sql
@@ -28,7 +27,7 @@ Skapa tables och kör dem med CTRL + E x2
 .gitignore
 
 8. Skapa en .env fil för att dölja uppgifter
-credentials.env
+.env
 
 9. Kör appen 
 python app.py
