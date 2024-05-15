@@ -11,7 +11,7 @@ pip install Flask
 pip install psycopg2
 pip install python-dotenv
 
-4. skapa en app.py fil
+4. Skapa en app.py fil
 app.py
 
 5. Skapa en html fil
